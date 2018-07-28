@@ -1,0 +1,35 @@
+taxonomyType,source
+Adjective,manual
+Audible Concepts,automated
+Average shot changes per 10 seconds,automated
+Average Word Height - First 10 Seconds,automated
+Average Word Width - First 10 Seconds,automated
+Average Words on Screen - First 10 Seconds,automated
+Average Words Time on Screen - First 10 Seconds,automated
+Brand,manual
+Brightcove Content Tags,provider
+Category,manual
+Comprehend Entities,automated
+Comprehend Key Phrases,automated
+Contextual,manual
+Description,provider
+Duration,automated
+Facebook_Content_Tags,provider
+Format,manual
+JW Player Content Tags,provider
+Mechanical Turk Topic,mturk
+Rekognition Celebrities,automated
+Rekognition Celebrities,automated
+Rekognition Labels,automated
+Rekognition Text on Image,automated
+Soundtrack,manual
+Title,provider
+Total Shot Changes - First 10 Seconds,automated
+Total shot changes - first 30 seconds,automated
+Total Words on Screen - First 10 Seconds,automated
+Type,manual
+Vimeo Content Tags,provider
+Visual Concepts,automated
+Words Per Second - First 10 Seconds,automated
+YouTube Content Tags,provider
+Decision Option Tags,mturk
